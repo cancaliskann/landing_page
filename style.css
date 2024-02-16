@@ -148,8 +148,9 @@ h3{
 }
 #p-div {
     display: flex;
-    justify-content:flex-end;
-    margin-right: 500px;
+    justify-content:flex-end ;
+    margin-right: 25%;
+    
 }
 
 .last-div {
